@@ -8,3 +8,6 @@ with open('file/employees.json') as f:
     for item in data:
         print(item)
 
+    # Close the file
+    f.close()
+
