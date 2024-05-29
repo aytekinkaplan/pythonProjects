@@ -47,3 +47,14 @@ temperature = (10.0, 15.0, 20.0)
 print(temperature)
 
 # Create Complex Dictionary
+
+temperature = {"morning": 10.0, "afternoon": 15.0, "evening": 20.0}
+
+
+def printTime(temperature):
+    for time, temp in temperature.items():
+        print(f"The temperature at {time} is {temp}°C.")
+
+
+temperature = {"morning": 10.0, "afternoon": 15.0, "evening": 20.0}
+printTime(temperature)
