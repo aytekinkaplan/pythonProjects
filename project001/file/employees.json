@@ -1,0 +1,52 @@
+[
+  {
+    "employee_id": 1,
+    "name": "John",
+    "salary": 10000
+  },
+  {
+    "employee_id": 2,
+    "name": "Jane",
+    "salary": 20000
+  },
+  {
+    "employee_id": 3,
+    "name": "Bob",
+    "salary": 30000
+  },
+  {
+    "employee_id": 4,
+    "name": "Alice",
+    "salary": 40000
+  },
+  {
+    "employee_id": 5,
+    "name": "Charlie",
+    "salary": 50000
+  },
+  {
+    "employee_id": 6,
+    "name": "David",
+    "salary": 60000
+  },
+  {
+    "employee_id": 7,
+    "name": "Emily",
+    "salary": 70000
+  },
+  {
+    "employee_id": 8,
+    "name": "Frank",
+    "salary": 80000
+  },
+  {
+    "employee_id": 9,
+    "name": "Grace",
+    "salary": 90000
+  },
+  {
+    "employee_id": 10,
+    "name": "Henry",
+    "salary": 100000
+  }
+]

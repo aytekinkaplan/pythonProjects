@@ -1,3 +1,10 @@
-print("todai")
-print("todai".replace("i", "y"))
-print(list.count([1, 2, 3, 3, 4, 5], 3))
+import json
+
+# Open the JSON file and load its content
+with open('file/employees.json') as f:
+    data = json.load(f)
+
+    # Iterate through each item in the JSON data and print it
+    for item in data:
+        print(item)
+
