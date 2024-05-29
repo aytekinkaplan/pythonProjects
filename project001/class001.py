@@ -37,7 +37,13 @@ print(temperature.get("morning"))
 
 print(temperature.get("night"))
 
-
 # The code below should print out the value of the key, "morning".
 
 print(temperature["morning"])
+
+# Create Tuple
+
+temperature = (10.0, 15.0, 20.0)
+print(temperature)
+
+# Create Complex Dictionary
